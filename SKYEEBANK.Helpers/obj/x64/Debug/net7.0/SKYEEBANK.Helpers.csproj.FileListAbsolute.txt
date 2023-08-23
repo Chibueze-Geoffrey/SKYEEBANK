@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\bin\x64\Debug\net7.0\SKYEEBANK.Helpers.deps.json
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\bin\x64\Debug\net7.0\SKYEEBANK.Helpers.dll
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\bin\x64\Debug\net7.0\SKYEEBANK.Helpers.pdb
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.AssemblyInfo.cs
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.csproj.CopyComplete
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.dll
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\refint\SKYEEBANK.Helpers.dll
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\SKYEEBANK.Helpers.pdb
+C:\Users\HP\Desktop\SKYEEBANK.Helpers\obj\x64\Debug\net7.0\ref\SKYEEBANK.Helpers.dll

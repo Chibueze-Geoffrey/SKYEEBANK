@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SKYEEBANK.Entities/1.0.0": {
+        "dependencies": {
+          "SKYEEBANK.Common": "1.0.0"
+        },
+        "runtime": {
+          "SKYEEBANK.Entities.dll": {}
+        }
+      },
+      "SKYEEBANK.Common/1.0.0": {
+        "runtime": {
+          "SKYEEBANK.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SKYEEBANK.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SKYEEBANK.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

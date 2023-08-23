@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>x64</Platforms>
+    <UseWindowsForms>false</UseWindowsForms>
+    <UseWPF>false</UseWPF>
+    <PlatformTarget>x64</PlatformTarget>
+    <StartupObject></StartupObject>
+    <BaseOutputPath />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SKYEEBANK.CORE\SKYEEBANK.Core.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.Data\SKYEEBANK.Data.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.Helpers\SKYEEBANK.Helpers.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.UI\SKYEEBANK.UI.csproj" />
+  </ItemGroup>
+
+</Project>

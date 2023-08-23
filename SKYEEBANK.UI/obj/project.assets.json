@@ -1,0 +1,176 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SKYEEBANK.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SKYEEBANK.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SKYEEBANK.Common.dll": {}
+        }
+      },
+      "SKYEEBANK.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SKYEEBANK.Data": "1.0.0",
+          "SKYEEBANK.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SKYEEBANK.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SKYEEBANK.Core.dll": {}
+        }
+      },
+      "SKYEEBANK.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SKYEEBANK.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SKYEEBANK.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SKYEEBANK.Data.dll": {}
+        }
+      },
+      "SKYEEBANK.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SKYEEBANK.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SKYEEBANK.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SKYEEBANK.Entities.dll": {}
+        }
+      },
+      "SKYEEBANK.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SKYEEBANK.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SKYEEBANK.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SKYEEBANK.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SKYEEBANK.Common/1.0.0": {
+      "type": "project",
+      "path": "../SKYEEBANK.Common/SKYEEBANK.Common.csproj",
+      "msbuildProject": "../SKYEEBANK.Common/SKYEEBANK.Common.csproj"
+    },
+    "SKYEEBANK.Core/1.0.0": {
+      "type": "project",
+      "path": "../SKYEEBANK.CORE/SKYEEBANK.Core.csproj",
+      "msbuildProject": "../SKYEEBANK.CORE/SKYEEBANK.Core.csproj"
+    },
+    "SKYEEBANK.Data/1.0.0": {
+      "type": "project",
+      "path": "../SKYEEBANK.Data/SKYEEBANK.Data.csproj",
+      "msbuildProject": "../SKYEEBANK.Data/SKYEEBANK.Data.csproj"
+    },
+    "SKYEEBANK.Entities/1.0.0": {
+      "type": "project",
+      "path": "../SKYEEBANK.Entities/SKYEEBANK.Entities.csproj",
+      "msbuildProject": "../SKYEEBANK.Entities/SKYEEBANK.Entities.csproj"
+    },
+    "SKYEEBANK.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../SKYEEBANK.Helpers/SKYEEBANK.Helpers.csproj",
+      "msbuildProject": "../SKYEEBANK.Helpers/SKYEEBANK.Helpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SKYEEBANK.Common >= 1.0.0",
+      "SKYEEBANK.Core >= 1.0.0",
+      "SKYEEBANK.Data >= 1.0.0",
+      "SKYEEBANK.Helpers >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\SKYEEBANK.UI\\SKYEEBANK.UI.csproj",
+      "projectName": "SKYEEBANK.UI",
+      "projectPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.UI\\SKYEEBANK.UI.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\Desktop\\SKYEEBANK.Common\\SKYEEBANK.Common.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.Common\\SKYEEBANK.Common.csproj"
+            },
+            "C:\\Users\\HP\\Desktop\\SKYEEBANK.CORE\\SKYEEBANK.Core.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.CORE\\SKYEEBANK.Core.csproj"
+            },
+            "C:\\Users\\HP\\Desktop\\SKYEEBANK.Data\\SKYEEBANK.Data.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.Data\\SKYEEBANK.Data.csproj"
+            },
+            "C:\\Users\\HP\\Desktop\\SKYEEBANK.Helpers\\SKYEEBANK.Helpers.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\SKYEEBANK.Helpers\\SKYEEBANK.Helpers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

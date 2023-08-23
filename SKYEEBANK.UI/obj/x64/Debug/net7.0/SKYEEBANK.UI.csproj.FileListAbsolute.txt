@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\SKYEEBANK.UI\bin\x64\Debug\net7.0\SKYEEBANK.UI.deps.json
+C:\Users\HP\Desktop\SKYEEBANK.UI\bin\x64\Debug\net7.0\SKYEEBANK.UI.dll
+C:\Users\HP\Desktop\SKYEEBANK.UI\bin\x64\Debug\net7.0\SKYEEBANK.UI.pdb
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.csproj.CopyComplete
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.dll
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\refint\SKYEEBANK.UI.dll
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\SKYEEBANK.UI.pdb
+C:\Users\HP\Desktop\SKYEEBANK.UI\obj\x64\Debug\net7.0\ref\SKYEEBANK.UI.dll

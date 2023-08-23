@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\SKYEEBANK.Common\bin\Debug\net7.0\SKYEEBANK.Common.deps.json
+C:\Users\HP\Desktop\SKYEEBANK.Common\bin\Debug\net7.0\SKYEEBANK.Common.dll
+C:\Users\HP\Desktop\SKYEEBANK.Common\bin\Debug\net7.0\SKYEEBANK.Common.pdb
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.dll
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\refint\SKYEEBANK.Common.dll
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\SKYEEBANK.Common.pdb
+C:\Users\HP\Desktop\SKYEEBANK.Common\obj\Debug\net7.0\ref\SKYEEBANK.Common.dll

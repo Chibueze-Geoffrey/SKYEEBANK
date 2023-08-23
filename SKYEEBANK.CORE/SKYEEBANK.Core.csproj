@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SKYEEBANK.Data\SKYEEBANK.Data.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.Entities\SKYEEBANK.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

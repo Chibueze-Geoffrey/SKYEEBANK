@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SKYEEBANK.Common\SKYEEBANK.Common.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.CORE\SKYEEBANK.Core.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.Data\SKYEEBANK.Data.csproj" />
+    <ProjectReference Include="..\SKYEEBANK.Helpers\SKYEEBANK.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
